@@ -1,4 +1,4 @@
-dateModified: 1793469874
+dateModified: 1793478866
 email:
   fromEmail: fultonchain@gmail.com
   fromName: 'One Dream'
@@ -15,7 +15,7 @@ meta:
   __names__:
     6ccbe5ee-8ff5-4a76-bae2-b5c23f153bf5: 'Section Category' # Section Category
     122f57f4-6e2b-4667-b421-a539027366f7: 'Menu Section' # Menu Section
-    702e5350-1222-4a9b-a57e-78cd020cf797: 'One Dream - Ballston Spa' # One Dream - Ballston Spa
+    702e5350-1222-4a9b-a57e-78cd020cf797: 'One Dream' # One Dream
     7823d8f2-2521-4846-a902-025d41f85e54: Menu # Menu
     9088c39e-8cc5-4d65-9ab6-c6639c501a67: 'Menu Sections' # Menu Sections
     54228a41-8b9d-488b-8f55-3965bfa752c4: 'Section Items' # Section Items
@@ -38,9 +38,10 @@ plugins:
 system:
   edition: solo
   live: true
-  name: 'One Dream'
+  name: 'One Dream- Ballston Spa'
+  retryDuration: null
   schemaVersion: 5.11.0.2
-  timeZone: America/Los_Angeles
+  timeZone: America/New_York
 users:
   allowPublicRegistration: false
   defaultGroup: null

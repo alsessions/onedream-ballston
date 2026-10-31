@@ -14,7 +14,7 @@ previewTargets:
     urlFormat: '{url}'
 propagationMethod: all
 siteSettings:
-  702e5350-1222-4a9b-a57e-78cd020cf797: # One Dream - Ballston Spa
+  702e5350-1222-4a9b-a57e-78cd020cf797: # One Dream
     enabledByDefault: true
     hasUrls: true
     template: menu/index.twig

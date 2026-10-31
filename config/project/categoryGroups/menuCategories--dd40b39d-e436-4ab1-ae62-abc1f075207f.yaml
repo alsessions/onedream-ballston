@@ -41,7 +41,7 @@ fieldLayouts:
 handle: menuCategories
 name: 'Menu Categories'
 siteSettings:
-  702e5350-1222-4a9b-a57e-78cd020cf797: # One Dream - Ballston Spa
+  702e5350-1222-4a9b-a57e-78cd020cf797: # One Dream
     hasUrls: false
     template: null
     uriFormat: null
