@@ -1,0 +1,9 @@
+baseUrl: $PRIMARY_SITE_URL
+enabled: true
+handle: default
+hasUrls: true
+language: en
+name: 'One Dream - Ballston Spa'
+primary: true
+siteGroup: ddf31e78-4d08-4f75-a44b-55abcac71f00 # One Dream
+sortOrder: 1

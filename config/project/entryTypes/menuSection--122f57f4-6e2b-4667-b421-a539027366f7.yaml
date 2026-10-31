@@ -1,0 +1,58 @@
+allowLineBreaksInTitles: false
+color: null
+description: null
+fieldLayouts:
+  39ea86a3-0d3a-4f1a-89d1-d5d762dff3f6:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: 6ccbe5ee-8ff5-4a76-bae2-b5c23f153bf5 # Section Category
+            handle: null
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 06b935b1-81f4-49d5-bbea-f6349a86b4fe
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: null
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: 54228a41-8b9d-488b-8f55-3965bfa752c4 # Section Items
+            handle: null
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 2deece9d-c1b0-4abb-96cd-3efa124c0c0e
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 0016ec18-51c3-4202-8840-86ac5e4b4986
+        userCondition: null
+    thumbFieldKey: null
+handle: menuSection
+hasTitleField: false
+icon: null
+name: 'Menu Section'
+showSlugField: false
+showStatusField: false
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: '{sectionCategory.one().title}'
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
+uiLabelFormat: '{title}'

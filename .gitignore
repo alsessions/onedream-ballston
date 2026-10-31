@@ -1,0 +1,11 @@
+/.env
+/.idea
+/vendor
+/node_modules
+.DS_Store
+
+/*.sql
+/*.sql.gz
+/*.sql.bz2
+/*.sql.xz
+/*.sql.zip
